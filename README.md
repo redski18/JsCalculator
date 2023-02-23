@@ -11,9 +11,9 @@ To clear the current calculation, click the "C" button. To clear the entire calc
 # Files Included
 The following files are included in this project:
 
-index.html: The main HTML file that displays the calculator interface.
-styles.css: The CSS file that styles the calculator interface.
-script.js: The JavaScript file that implements the calculator's functionality.
+- index.html: The main HTML file that displays the calculator interface.
+- styles.css: The CSS file that styles the calculator interface.
+- script.js: The JavaScript file that implements the calculator's functionality.
 
 # Customization
 This calculator is designed to be easy to customize. You can modify the appearance of the calculator by editing the CSS in style.css. You can also modify the calculator's functionality by editing the JavaScript in script.js.
