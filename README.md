@@ -4,7 +4,7 @@ This is my attempt at making a simple calculator using HTML, CSS, and JavaScript
 # How to Use
 To use the calculator, simply open the index.html file in your web browser. The calculator will load automatically in your browser window.
 
-To perform a calculation, click the buttons on the calculator's interface. The buttons are labeled with the numbers 0-9, as well as the arithmetic operations +, -, *, and /.
+To perform a calculation, click the buttons on the calculator's interface. The buttons are labeled with the numbers 0-9, as well as the arithmetic operations +, -, *, and ÷.
 
 To clear the current calculation, click the "C" button. To clear the entire calculator, click the "AC" button.
 
